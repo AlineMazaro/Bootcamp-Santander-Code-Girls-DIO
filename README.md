@@ -1,7 +1,5 @@
-# Livro de Receitas :woman_cook:
+# Bootcamp Santander Code Girls DIO
 
-Olá, Bem vindo ao meu livro de receitas.
+Olï¿½, Bem vindo ao meu repositÃ³rio de exercÃ­cios do bootcamp.
 
-- Strogonoff de Frango
-- Pavê
 
