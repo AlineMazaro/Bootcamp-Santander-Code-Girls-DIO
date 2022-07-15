@@ -1,5 +1,5 @@
 # Bootcamp Santander Code Girls DIO
 
-Olá, Bem vindo ao meu repositório de exercícios do bootcamp.
+Olá, bem vindo ao meu repositório de exercícios do bootcamp.
 
 
